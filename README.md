@@ -6,5 +6,5 @@ SEEDS Web publishing workshop on Jan 31, 2022
 a repo and workshop for Jan 31 workshop 
 
 ### markdown 
-how about lists
-type a hyphen -list-
+* how about lists
+* type a hyphen -list-
