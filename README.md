@@ -33,7 +33,7 @@ new paragraph
 - Data Carpentry
 - Library Carpentry
 ## Here is my second level heading 
-[SEEDS Website](https://cbsr.ucsb.edu/about/giana-grigsby)
+[SEEDS Website:Giana Grigsby](https://cbsr.ucsb.edu/about/giana-grigsby)
 
 ![Carpentries Logo](https://github.com/carpentries/carpentries.org/raw/main/images/TheCarpentries-opengraph.png)
 
