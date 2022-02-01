@@ -33,7 +33,7 @@ new paragraph
 - Data Carpentry
 - Library Carpentry
 ## Here is my second level heading 
-[here is a link to fellowship program]: (https://cbsr.ucsb.edu/about/giana-grigsby)
+Link to website [here]:(https://cbsr.ucsb.edu/about/giana-grigsby)
 This is how a ~~line through~~ something 
 ### Numbered List 
 1. First Item 
