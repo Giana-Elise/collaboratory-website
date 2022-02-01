@@ -33,7 +33,9 @@ new paragraph
 - Data Carpentry
 - Library Carpentry
 ## Here is my second level heading 
-Link to website here [https://cbsr.ucsb.edu/about/giana-grigsby]
+[SEEDS Website](https://cbsr.ucsb.edu/about/giana-grigsby)
+
+![Carpentries Logo](https://github.com/carpentries/carpentries.org/raw/main/images/TheCarpentries-opengraph.png)
 
 
 This is how a ~~line through~~ something 
